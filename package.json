@@ -1,0 +1,27 @@
+{
+  "name": "jquery-dotimeout",
+  "version": "1.0.0",
+  "description": "Unofficial clone of http://benalman.com/projects/jquery-dotimeout-plugin/ to support npm",
+  "main": "jquery.ba-dotimeout.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/limdauto/jquery-dotimeout.git"
+  },
+  "keywords": [
+    "jquery",
+    "dotimeout"
+  ],
+  "author": "Ben Alman",
+  "license": "MIT & GPL",
+  "bugs": {
+    "url": "https://github.com/limdauto/jquery-dotimeout/issues"
+  },
+  "homepage": "https://github.com/limdauto/jquery-dotimeout"
+}
